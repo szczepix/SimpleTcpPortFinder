@@ -1,7 +1,7 @@
-[![codecov](https://codecov.io/gh/briansworth/SimpleTcpPortFinder/branch/master/graph/badge.svg)](https://codecov.io/gh/briansworth/SimpleTcpPortFinder)
+[![codecov](https://codecov.io/gh/szczepix/SimpleTcpPortFinder/branch/master/graph/badge.svg?token=XPKLQ2B5WN)](https://codecov.io/gh/szczepix/SimpleTcpPortFinder)
 
 
-## Simple Tcp Port Finder
+## Simple Tcp Port Finder (Fork from: [briansworth](https://github.com/briansworth/SimpleTcpPortFinder))
 
 Small module for getting an active / available TCP port numbers.
 
